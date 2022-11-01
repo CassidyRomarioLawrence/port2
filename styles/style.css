@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kaushan+Script&family=Roboto:wght@900&display=swap');
+.navbar{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.details{
+    position: absolute;
+    top: 50%;
+}
+#about{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.img-fluid{
+    border: 3px solid white;
+    border-radius: 4px;
+    margin:5px;
+}
+.carousel-caption{
+    top: 50%;
+}
+body{
+    font-family: 'Bebas Neue',cursive;
+    background-color: black;
+}
+#resume{
+    color: white;
+}
+.table{
+    color: white;
+}
